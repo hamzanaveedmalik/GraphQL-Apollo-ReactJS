@@ -1,4 +1,4 @@
-# SpaceX Launch Stats
+# SpaceX Launch Missions.
 
 > React, GraphQL, Apollo app that uses the SpaceX API to display launches
 
@@ -29,4 +29,7 @@ cd client && npm run build
 ### Author
 
 Hamza Naveed
-[@hammzanaveed](http://www.twitter.com/hammzanaveed)
+
+## Demo 
+
+https://mighty-brook-86570.herokuapp.com/
